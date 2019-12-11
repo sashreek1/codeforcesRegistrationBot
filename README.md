@@ -16,5 +16,5 @@ type `y` to continue or `n` to quit
    finally if the registration is successful you will get a confirmation message like this : 
 `================================================================================`  
 `you have been successfully registered for the <contest name> contest`  
-`===============================================================================`  
+`================================================================================`  
    
